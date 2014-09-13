@@ -13,6 +13,8 @@
 		9A5A739219C4E4AF002377FA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A5A739119C4E4AF002377FA /* Images.xcassets */; };
 		9A5A739519C4E4AF002377FA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A5A739319C4E4AF002377FA /* LaunchScreen.xib */; };
 		9A5A73A119C4E4AF002377FA /* postcard_bitfountainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A73A019C4E4AF002377FA /* postcard_bitfountainTests.swift */; };
+		9AF87A3719C4E56700300A55 /* Gagarin_stamp_HR.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9AF87A3519C4E56700300A55 /* Gagarin_stamp_HR.gif */; };
+		9AF87A3819C4E56700300A55 /* meg_kait Christmas2010.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF87A3619C4E56700300A55 /* meg_kait Christmas2010.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		9A5A739A19C4E4AF002377FA /* postcard bitfountainTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "postcard bitfountainTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A5A739F19C4E4AF002377FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A5A73A019C4E4AF002377FA /* postcard_bitfountainTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcard_bitfountainTests.swift; sourceTree = "<group>"; };
+		9AF87A3519C4E56700300A55 /* Gagarin_stamp_HR.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Gagarin_stamp_HR.gif; sourceTree = "<group>"; };
+		9AF87A3619C4E56700300A55 /* meg_kait Christmas2010.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "meg_kait Christmas2010.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 				9A5A738C19C4E4AF002377FA /* ViewController.swift */,
 				9A5A738E19C4E4AF002377FA /* Main.storyboard */,
 				9A5A739119C4E4AF002377FA /* Images.xcassets */,
+				9AF87A3519C4E56700300A55 /* Gagarin_stamp_HR.gif */,
+				9AF87A3619C4E56700300A55 /* meg_kait Christmas2010.jpg */,
 				9A5A739319C4E4AF002377FA /* LaunchScreen.xib */,
 				9A5A738819C4E4AF002377FA /* Supporting Files */,
 			);
@@ -194,6 +200,8 @@
 			files = (
 				9A5A739019C4E4AF002377FA /* Main.storyboard in Resources */,
 				9A5A739519C4E4AF002377FA /* LaunchScreen.xib in Resources */,
+				9AF87A3819C4E56700300A55 /* meg_kait Christmas2010.jpg in Resources */,
+				9AF87A3719C4E56700300A55 /* Gagarin_stamp_HR.gif in Resources */,
 				9A5A739219C4E4AF002377FA /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -405,6 +413,7 @@
 				9A5A73A619C4E4AF002377FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A5A73A719C4E4AF002377FA /* Build configuration list for PBXNativeTarget "postcard bitfountainTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +422,7 @@
 				9A5A73A919C4E4AF002377FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
